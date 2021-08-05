@@ -1,0 +1,12 @@
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.exe
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.deps.json
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.runtimeconfig.json
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.runtimeconfig.dev.json
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.dll
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\bin\Debug\netcoreapp3.1\Project4Practice.pdb
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.AssemblyInfoInputs.cache
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.AssemblyInfo.cs
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.dll
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.pdb
+C:\Users\Jerry Parng\Documents\Coding Stuff\CSC470A\Project4Practice\obj\Debug\netcoreapp3.1\Project4Practice.genruntimeconfig.cache
